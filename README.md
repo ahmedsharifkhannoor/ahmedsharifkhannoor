@@ -13,4 +13,16 @@ Here is what I'm working on! 👋
 
 
 
-Github is a great way for me to showcase my work to the world, and to allow others to contribute to my work as well. The world, especially in tech, is moving towards emphasizing people’s skills and their abilities over academic credentials when it comes to recruiting, so it’s a great way for me to showcase my real-world coding experience
+### Hi there 👋, Ahmed Sharif Khan Noor
+#### Developer and Designer 
+![Developer and Designer ](https://pbs.twimg.com/media/E3znbZ2VEAIsefU?format=png&name=small)
+
+a web designer/developer focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development since 2007. I enjoy creating beautifully designed, intuitive and functional websites.
+
+Skills: Python / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
