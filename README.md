@@ -8,6 +8,10 @@ Here is what I'm working on! 👋
 - 📫 How to reach me ...[Contact ME](https://ahmedsharifkhan.gq)
 
 ### Hi there 👋, Ahmed Sharif Khan Noor
+- 👀 I’m interested in ...  Coding
+- 🌱 I’m currently learning ...  python
+- 💞️ I’m looking to collaborate on ...  Vue.js
+- 📫 How to reach me ...[Contact ME](https://ahmedsharifkhan.gq)
 #### Developer and Designer 
 ![Developer and Designer ](https://pbs.twimg.com/profile_banners/817093197792804864/1626731093/600x200)
 
