@@ -7,12 +7,6 @@ Here is what I'm working on! 👋
 - 💞️ I’m looking to collaborate on ...  Vue.js
 - 📫 How to reach me ...[Contact ME](https://ahmedsharifkhan.gq)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsharifkhannoor)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 ### Hi there 👋, Ahmed Sharif Khan Noor
 #### Developer and Designer 
 ![Developer and Designer ](https://pbs.twimg.com/profile_banners/817093197792804864/1626731093/600x200)
@@ -23,6 +17,7 @@ Skills: Python / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsharifkhannoor)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
